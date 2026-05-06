@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919236612680",
+    "project_id": "curdlecturas",
+    "storage_bucket": "curdlecturas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919236612680:android:762693c4e3e8337b46be7d",
+        "android_client_info": {
+          "package_name": "com.example.crudlecturas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmjjnpcnTkATL4KQ7yJgArZD6xZUyU8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919236612680:android:984257556a2bb32346be7d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmjjnpcnTkATL4KQ7yJgArZD6xZUyU8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
